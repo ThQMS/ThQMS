@@ -2,9 +2,13 @@
 
 # Thiago Henrique
 
-### Desenvolvedor Full Stack | Node.js · TypeScript · React · Next.js · Python
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Construindo+SaaS+escal%C3%A1veis+com+IA;Blue+Team+Operations+em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+### Node.js · TypeScript · React · Next.js · Python
+
+[![Disponível para oportunidades](https://img.shields.io/badge/Dispon%C3%ADvel_para-Oportunidades-38BDAE?style=for-the-badge)](mailto:thqueirozsilva@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thqueirozsilva@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThQMS)
 
@@ -12,28 +16,31 @@
 
 ---
 
-### Sobre mim
+### 👋 Sobre mim
 
-Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN (2026). Trabalho com desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
+Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN. Trabalho com desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
 
-Especialista em aplicações que precisam de **performance**, **segurança** e **escalabilidade**. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho alguns SaaS públicos que demonstram minha capacidade técnica.
+Especialista em aplicações que precisam de **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho alguns SaaS públicos que demonstram minha capacidade técnica.
 
 ---
 
-### Stack Técnico
+### 🛠️ Stack Técnico
 
 **Back-end**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-**Front-end**
+**Front-end & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -63,7 +70,7 @@ Especialista em aplicações que precisam de **performance**, **segurança** e *
 
 ---
 
-### Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 <table>
 <tr>
@@ -92,7 +99,7 @@ Plataforma web bilateral de recrutamento com IA generativa integrada como compon
 
 ---
 
-### SaaS & Projetos
+### 💼 SaaS & Projetos
 
 <table>
 <tr>
@@ -106,7 +113,7 @@ Sistema com aplicativo que hospeda catálogos de produtos em alta definição co
 
 |                      |                                                        |
 | -------------------- | ------------------------------------------------------ |
-| 📱 Aplicativo Mobile | Catalogo offline-first com sincronização em background |
+| 📱 Aplicativo Mobile | Catálogo offline-first com sincronização em background |
 | 🖼️ HD Nativa         | Suporte a imagens de alta definição sem compactação    |
 | ⚡ Performance       | Cache inteligente e pré-carregamento otimizado         |
 | 🔄 Sync              | Sincronização automática quando online                 |
@@ -140,7 +147,32 @@ SaaS multi-tenant para gestão completa de microcrédito, empréstimos e factori
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThQMS&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/ThQMS)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ThQMS&theme=dark&hide_border=true)](https://github.com/ThQMS)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThQMS&layout=compact&theme=dark&hide_border=true)](https://github.com/ThQMS)
+
+</div>
+
+---
+
+### 🐍 Snake Game
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -150,44 +182,44 @@ SaaS multi-tenant para gestão completa de microcrédito, empréstimos e factori
 
 **Desenvolvedor Full Stack** — Jeito Frio Sorvetes (3 anos)
 
-- Desenvolvimento e manutenção de sistemas web e mobile
-- Integração com APIs externas e sistemas legados
-- Arquitetura de software e boas práticas de desenvolvimento
-- Trabalho com TypeScript, Python, React e Node.js
+- Desenvolvi um **novo portal/aplicativo interno** que substituiu e **aposentou o sistema legado** da empresa
+- Integrei a nova aplicação ao sistema legado por meio de um **middleware em Python**, garantindo a transição sem interrupção das operações
+- **Automatizei a contagem de produção e a conferência de produtos** através de uma solução de **Visão Computacional (Visual IA)** desenvolvida por mim
+- Atuação full stack — do design da arquitetura à entrega — com TypeScript, Python, React e Node.js
 
 ---
 
 ### 🎓 Formação & Certificações
 
-**Engenharia de Software** — UNIGRAN, Campo Grande–MS (Conclusão: 2026)
+**Formado em Engenharia de Software** — UNIGRAN, Campo Grande–MS
 
 TCC: _LinkUp — Plataforma de Recrutamento com Busca Semântica Híbrida e IA Generativa_
 
+**Pós-Graduação em Segurança Defensiva – Blue Team Operations** _(Em andamento)_
+
 **Certificações e Cursos Complementares:**
 
-| Curso                                   | Carga Horária |
-| --------------------------------------- | ------------- |
-| 🐍 Python para Web                      | 44 horas      |
-| 🐍 Python Office: Automações com Python | 75 horas      |
-| 🐍 Python Básico/Intermediário          | 50 horas      |
-| 📘 JavaScript                           | 30 horas      |
-| 💻 Node.js                              | 40 horas      |
-| ⚛️ React                                | 35 horas      |
-| 🔗 Git / GitHub                         | 10 horas      |
-| 🗄️ PostgreSQL                           | 20 horas      |
+- 🛡️ **Analista de Cibersegurança Júnior** — Cisco Networking Academy
+- 🐍 Python — Web · Office (Automações) · Básico/Intermediário
+- 🐘 PHP
+- ⚛️ React · React Native
+- 📘 JavaScript
+- 💻 Node.js
+- 🗄️ PostgreSQL
+- 🔗 Git / GitHub
 
 ---
 
-### 💬 Entre em Contato
+### 📬 Entre em Contato
 
 Interessado em colaborar, conversar sobre desenvolvimento ou explorar oportunidades? Sinta-se à vontade para me contactar:
 
 📧 Email: [thqueirozsilva@gmail.com](mailto:thqueirozsilva@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+🔗 LinkedIn: [linkedin.com/in/thiago-henrique-queiroz-muniz-silva](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
 💻 GitHub: [@ThQMS](https://github.com/ThQMS)
 
 ---
 
 <div align="center">
-<sub>A maior parte do meu trabalho está em repositórios privados por questões corporativas.<br>Entre em contato se quiser saber mais sobre minha experiência e projetos.</sub>
+<sub>Entre em contato se quiser saber mais sobre minha experiência e projetos.</sub>
 </div>
