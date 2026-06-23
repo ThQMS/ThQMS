@@ -197,6 +197,13 @@ App de finanças pessoais (Android/iOS) com persistência local, fluxo de caixa,
 
 </td>
 <td width="50%">
+
+**[IOC Enricher — Enriquecimento de Indicadores de Comprometimento](https://github.com/ThQMS/Ioc-enricher)**
+
+CLI de Cibersegurança que detecta o tipo de IOC (IP, domínio, URL ou hash), consulta fontes de threat intel em paralelo (VirusTotal, AbuseIPDB, Shodan, IPinfo) e consolida tudo num risk score ponderado de 0–100, com histórico local e arquitetura hexagonal.
+
+**Stack:** Python 3.11 · Click · SQLite · Ruff · mypy · pytest · Docker
+
 </td>
 </tr>
 </table>
