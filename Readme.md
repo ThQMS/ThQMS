@@ -20,7 +20,7 @@
 
 Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN. Trabalho com desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
 
-Especialista em aplicações que precisam de **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho alguns SaaS públicos que demonstram minha capacidade técnica.
+Especialista em aplicações que precisam de **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho SaaS e projetos públicos que demonstram minha capacidade técnica.
 
 ---
 
@@ -99,7 +99,7 @@ Plataforma web bilateral de recrutamento com IA generativa integrada como compon
 
 ---
 
-### 💼 SaaS & Projetos
+### 💼 SaaS
 
 <table>
 <tr>
@@ -135,6 +135,68 @@ SaaS multi-tenant para gestão completa de microcrédito, empréstimos e factori
 | 🔔 Notificações | Alertas em tempo real de parcelas e quitações              |
 | 📊 Dashboard    | Capital em giro, inadimplência, recebimentos por mês       |
 
+</td>
+</tr>
+</table>
+
+---
+
+### 🧪 Projetos de Estudo & Open Source
+
+Projetos públicos que exploro para aprofundar arquitetura, performance e boas práticas — cada um com README detalhado, diagramas de arquitetura e decisões técnicas documentadas.
+
+<table>
+<tr>
+<td width="50%">
+
+**[Soundprint API — Identificação de Música por Fingerprint](https://github.com/ThQMS/soundprint-api)**
+
+API REST que identifica músicas a partir de áudio via fingerprint acústico (~300ms), com processamento em lote, dashboard de estatísticas e observabilidade.
+
+**Stack:** FastAPI · Python · PostgreSQL · Celery · Redis · Chromaprint/AcoustID · React
+
+</td>
+<td width="50%">
+
+**[Stockr — Gestão de Estoque Offline-First](https://github.com/ThQMS/Stockr-api)** · **[App](https://github.com/ThQMS/Stockr-app-)**
+
+Backend ([Laravel/DDD](https://github.com/ThQMS/Stockr-api)) e app mobile ([Flutter](https://github.com/ThQMS/Stockr-app-)) que se complementam: catálogo, leitura de QR Code e ledger imutável de movimentações com sync offline-first.
+
+**Stack:** Laravel · PHP 8.4 · Flutter · Drift (SQLite) · Riverpod
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Nexus Gateway — API Gateway](https://github.com/ThQMS/Nexus-Gateway)**
+
+API Gateway com reverse proxy por path, autenticação JWT RS256, rate limiting distribuído (por IP/token/rota) e dashboard de métricas no Grafana.
+
+**Stack:** Node.js · TypeScript · Fastify · Redis · Prometheus · Grafana · Docker
+
+</td>
+<td width="50%">
+
+**[BR Dev Jobs — ETL & Analytics de Vagas](https://github.com/ThQMS/-Br-dev-jobs)**
+
+Pipeline ETL e API de analytics do mercado dev brasileiro: agrega vagas de várias fontes, normaliza, deduplica por hash e enriquece com NLP para extrair tecnologias.
+
+**Stack:** FastAPI · Python · PostgreSQL · Redis · Playwright · spaCy
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Fintrack Mobile — Finanças Offline-First](https://github.com/ThQMS/Fintrack-Mobile)**
+
+App de finanças pessoais (Android/iOS) com persistência local, fluxo de caixa, gastos por categoria e valores em centavos inteiros para evitar erros de arredondamento.
+
+**Stack:** React Native · React 19 · TypeScript · op-sqlite · Zustand · React Query
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
