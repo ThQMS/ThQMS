@@ -105,7 +105,7 @@ Plataforma web bilateral de recrutamento com IA generativa integrada como compon
 <tr>
 <td width="50%">
 
-**[VisualHub — Catálogo Offline para Mobile](https://github.com/ThQMS/VisualHub)**
+**VisualHub — Catálogo Offline para Mobile**
 
 Sistema com aplicativo que hospeda catálogos de produtos em alta definição com suporte a offline-first. Desenvolvido para representante de móveis de luxo com sincronização automática de imagens de alta resolução.
 
@@ -121,7 +121,7 @@ Sistema com aplicativo que hospeda catálogos de produtos em alta definição co
 </td>
 <td width="50%">
 
-**[Pecunia — SaaS de Gestão de Microcrédito](https://github.com/emersonmuniz/pecunia)**
+**Pecunia — SaaS de Gestão de Microcrédito**
 
 SaaS multi-tenant para gestão completa de microcrédito, empréstimos e factoring. Centraliza operações de pequenas financeiras que controlavam tudo em planilhas.
 
