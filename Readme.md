@@ -224,22 +224,22 @@ CLI de Cibersegurança que detecta o tipo de IOC (IP, domínio, URL ou hash), co
 
 ---
 
-### 🐍 Snake Game
+### 🟡 Pac-Man Game
 
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ThQMS/ThQMS/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/ThQMS/ThQMS/output/pacman-contribution-graph.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="github contribution grid pac-man animation"
+    src="https://raw.githubusercontent.com/ThQMS/ThQMS/output/pacman-contribution-graph.svg"
   />
 </picture>
 
