@@ -2,11 +2,13 @@
 
 # Thiago Henrique
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Construindo+SaaS+escal%C3%A1veis+com+IA;Blue+Team+Operations+em+forma%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Construindo+SaaS+escal%C3%A1veis+com+IA;Blue+Team+Operations+em+forma%C3%A7%C3%A3o)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ### Node.js · TypeScript · React · Next.js · Python
 
-[![Disponível para oportunidades](https://img.shields.io/badge/Dispon%C3%ADvel_para-Oportunidades-38BDAE?style=for-the-badge)](mailto:thqueirozsilva@gmail.com)
+🇧🇷 **Português** · [🇺🇸 English](README.en.md)
+
+[![Disponível para oportunidades](https://img.shields.io/badge/Dispon%C3%ADvel_para-Oportunidades-38BDAE?style=for-the-badge)](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thqueirozsilva@gmail.com)
@@ -21,6 +23,42 @@
 Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN. Trabalho com desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
 
 Especialista em aplicações que precisam de **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho SaaS e projetos públicos que demonstram minha capacidade técnica.
+
+---
+
+### 📚 Experiência Profissional
+
+**Desenvolvedor Full Stack** — Jeito Frio Sorvetes (3 anos)
+
+- Desenvolvi um **novo portal/aplicativo interno** que substituiu e **aposentou o sistema legado** da empresa
+- Integrei a nova aplicação ao sistema legado por meio de um **middleware em Python**, garantindo a transição sem interrupção das operações
+- **Automatizei a contagem de produção e a conferência de produtos** através de uma solução de **Visão Computacional (Visual IA)** desenvolvida por mim
+- Atuação full stack — do design da arquitetura à entrega — com TypeScript, Python, React e Node.js
+
+---
+
+### 🎓 Formação & Certificações
+
+**Formado em Engenharia de Software** — UNIGRAN, Campo Grande–MS
+
+TCC: _LinkUp — Plataforma de Recrutamento com Busca Semântica Híbrida e IA Generativa_
+
+**Pós-Graduação em Segurança Defensiva – Blue Team Operations** _(Em andamento)_
+
+**Certificações e Cursos Complementares:**
+
+- 🛡️ **Analista de Cibersegurança Júnior** — Cisco Networking Academy
+- 🔒 LGPD — Privacidade & Proteção de Dados
+- 🐍 Python — Web · Office (Automações) · Básico/Intermediário
+- 📊 Dashboards Interativos com Python — Plotly · Dash
+- 🐘 PHP
+- ⚛️ React · React Native
+- 📘 JavaScript
+- 💻 Node.js
+- 🗄️ PostgreSQL
+- 🐳 Docker
+- 📱 Flutter
+- 🔗 Git / GitHub
 
 ---
 
@@ -73,6 +111,10 @@ Especialista em aplicações que precisam de **performance**, **segurança** e *
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white)
+
+**Segurança & Compliance**
+
+![Blue Team](https://img.shields.io/badge/Blue_Team-005571?style=flat-square&logo=hackthebox&logoColor=white)
 ![LGPD](https://img.shields.io/badge/LGPD-006400?style=flat-square&logoColor=white)
 
 ---
@@ -145,6 +187,8 @@ SaaS multi-tenant para gestão completa de microcrédito, empréstimos e factori
 </td>
 </tr>
 </table>
+
+> 💡 _Projetos corporativos privados. Demonstrações e detalhes técnicos disponíveis sob solicitação._
 
 ---
 
@@ -254,51 +298,11 @@ CLI de Cibersegurança que detecta o tipo de IOC (IP, domínio, URL ou hash), co
 
 ---
 
-### 📚 Experiência Profissional
-
-**Desenvolvedor Full Stack** — Jeito Frio Sorvetes (3 anos)
-
-- Desenvolvi um **novo portal/aplicativo interno** que substituiu e **aposentou o sistema legado** da empresa
-- Integrei a nova aplicação ao sistema legado por meio de um **middleware em Python**, garantindo a transição sem interrupção das operações
-- **Automatizei a contagem de produção e a conferência de produtos** através de uma solução de **Visão Computacional (Visual IA)** desenvolvida por mim
-- Atuação full stack — do design da arquitetura à entrega — com TypeScript, Python, React e Node.js
-
----
-
-### 🎓 Formação & Certificações
-
-**Formado em Engenharia de Software** — UNIGRAN, Campo Grande–MS
-
-TCC: _LinkUp — Plataforma de Recrutamento com Busca Semântica Híbrida e IA Generativa_
-
-**Pós-Graduação em Segurança Defensiva – Blue Team Operations** _(Em andamento)_
-
-**Certificações e Cursos Complementares:**
-
-- 🛡️ **Analista de Cibersegurança Júnior** — Cisco Networking Academy
-- 🐍 Python — Web · Office (Automações) · Básico/Intermediário
-- 📊 Dashboards Interativos com Python — Plotly · Dash
-- 🐘 PHP
-- ⚛️ React · React Native
-- 📘 JavaScript
-- 💻 Node.js
-- 🗄️ PostgreSQL
-- 🔗 Git / GitHub
-- 🐳 Docker
-- 📱 Flutter
-- 🔒 LGPD
-
----
-
 ### 📬 Entre em Contato
 
 Interessado em colaborar, conversar sobre desenvolvimento ou explorar oportunidades? Sinta-se à vontade para me contactar:
 
-📧 Email: [thqueirozsilva@gmail.com](mailto:thqueirozsilva@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/thiago-henrique-queiroz-muniz-silva](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
-💻 GitHub: [@ThQMS](https://github.com/ThQMS)
-
----
+📧 [thqueirozsilva@gmail.com](mailto:thqueirozsilva@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249) · 💻 [@ThQMS](https://github.com/ThQMS)
 
 <div align="center">
 <sub>Entre em contato se quiser saber mais sobre minha experiência e projetos.</sub>
