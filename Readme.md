@@ -41,6 +41,7 @@ Especialista em aplicações que precisam de **performance**, **segurança** e *
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -61,12 +62,18 @@ Especialista em aplicações que precisam de **performance**, **segurança** e *
 ![Groq](https://img.shields.io/badge/Groq-FF6B00?style=flat-square&logoColor=white)
 ![Embeddings](https://img.shields.io/badge/Embeddings-4285F4?style=flat-square&logoColor=white)
 
+**Dados & Visualização**
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
+
 **Infra & Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-006400?style=flat-square&logoColor=white)
 
 ---
 
@@ -270,12 +277,16 @@ TCC: _LinkUp — Plataforma de Recrutamento com Busca Semântica Híbrida e IA G
 
 - 🛡️ **Analista de Cibersegurança Júnior** — Cisco Networking Academy
 - 🐍 Python — Web · Office (Automações) · Básico/Intermediário
+- 📊 Dashboards Interativos com Python — Plotly · Dash
 - 🐘 PHP
 - ⚛️ React · React Native
 - 📘 JavaScript
 - 💻 Node.js
 - 🗄️ PostgreSQL
 - 🔗 Git / GitHub
+- 🐳 Docker
+- 📱 Flutter
+- 🔒 LGPD
 
 ---
 
