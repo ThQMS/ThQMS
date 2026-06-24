@@ -2,7 +2,7 @@
 
 # Thiago Henrique
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Construindo+SaaS+escal%C3%A1veis+com+IA;Blue+Team+Operations+em+forma%C3%A7%C3%A3o)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;Blue+Team+Operations+em+forma%C3%A7%C3%A3o)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ### Node.js · TypeScript · React · Next.js · Python
 
@@ -22,7 +22,7 @@
 
 Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN. Trabalho com desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
 
-Especialista em aplicações que precisam de **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho SaaS e projetos públicos que demonstram minha capacidade técnica.
+Trabalho com aplicações que exigem **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho SaaS e projetos públicos que demonstram minha capacidade técnica.
 
 ---
 

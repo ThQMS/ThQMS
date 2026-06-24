@@ -2,7 +2,7 @@
 
 # Thiago Henrique
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Software+Engineer;Full+Stack+Developer;Building+scalable+AI-powered+SaaS;Blue+Team+Operations+in+progress)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&background=0D1117&center=true&vCenter=true&width=600&height=55&lines=Software+Engineer;Full+Stack+Developer;Blue+Team+Operations+in+progress)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ### Node.js · TypeScript · React · Next.js · Python
 
@@ -22,7 +22,7 @@
 
 Full Stack Developer with **3 years of professional experience** at Jeito Frio Sorvetes, holding a Software Engineering degree from UNIGRAN. I build scalable web systems, software architecture, generative-AI integrations and multi-tenant SaaS.
 
-I specialize in applications that demand **performance**, **security** and **scalability**, working across a broad stack from back-end to mobile. I'm currently pursuing a **Postgraduate degree in Defensive Security – Blue Team Operations**, deepening my work in defense, detection and incident response. Most of my work lives in private corporate repositories, but I keep public SaaS and open-source projects that showcase my technical skills.
+I work on applications that demand **performance**, **security** and **scalability**, across a broad stack from back-end to mobile. I'm currently pursuing a **Postgraduate degree in Defensive Security – Blue Team Operations**, deepening my work in defense, detection and incident response. Most of my work lives in private corporate repositories, but I keep public SaaS and open-source projects that showcase my technical skills.
 
 ---
 
