@@ -269,6 +269,12 @@ Mini game roguelike turn-based 100% no navegador: você desce por andares gerado
 </td>
 <td width="50%">
 
+**[DevPulse — Monitoramento de Uptime em Tempo Real](https://github.com/ThQMS/Devpulse)**
+
+Dashboard de monitoramento para serviços HTTP e APIs: executa health checks periódicos, registra histórico de uptime e latência, gera alertas para falhas repetidas ou respostas lentas e atualiza o painel React em tempo real via WebSocket.
+
+**Stack:** TypeScript · Fastify · React · PostgreSQL · Redis · BullMQ · WebSocket · Docker
+
 </td>
 </tr>
 </table>
