@@ -257,6 +257,20 @@ A cybersecurity CLI that detects the IOC type (IP, domain, URL or hash), queries
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**🎮 [Abyssal Crown — Dungeon Roguelike with Code Puzzles](https://github.com/ThQMS/Abyssal-Crown)**
+
+A 100% browser-based turn-based roguelike mini game: descend through procedurally generated floors (BSP + fog-of-war) and open chests by solving algorithm puzzles in JavaScript or Python. 4 classes, tactical combat with elemental effects and data-driven content via JSON.
+
+**Stack:** TypeScript · Vite · Canvas 2D · GitHub Pages
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
