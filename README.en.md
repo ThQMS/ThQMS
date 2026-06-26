@@ -20,9 +20,9 @@
 
 ### 👋 About me
 
-Full Stack Developer with **3 years of professional experience** at Jeito Frio Sorvetes, holding a Software Engineering degree from UNIGRAN. I build scalable web systems, software architecture, generative-AI integrations and multi-tenant SaaS.
+Full Stack Developer with **3 years of professional experience** at Jeito Frio Sorvetes, holding a Software Engineering degree from UNIGRAN. I work within development teams building scalable web systems, software architecture, generative-AI integrations and multi-tenant SaaS.
 
-I work on applications that demand **performance**, **security** and **scalability**, across a broad stack from back-end to mobile. I'm currently pursuing a **Postgraduate degree in Defensive Security – Blue Team Operations**, deepening my work in defense, detection and incident response. Most of my work lives in private corporate repositories, but I keep public SaaS and open-source projects that showcase my technical skills.
+I collaborate on applications that demand **performance**, **security** and **scalability**, across a broad stack from back-end to mobile. I'm currently pursuing a **Postgraduate degree in Defensive Security – Blue Team Operations**, deepening my work in defense, detection and incident response. Most of my work lives in private corporate repositories, but I keep public SaaS and open-source projects that showcase my technical skills.
 
 ---
 
@@ -30,10 +30,10 @@ I work on applications that demand **performance**, **security** and **scalabili
 
 **Full Stack Developer** — Jeito Frio Sorvetes (3 years)
 
-- Built a **new internal portal/application** that replaced and **retired the company's legacy system**
-- Integrated the new application with the legacy system through a **Python middleware**, ensuring a seamless transition with zero downtime
-- **Automated production counting and product verification** with a **Computer Vision (Visual AI)** solution I designed and built
-- Full stack ownership — from architecture design to delivery — with TypeScript, Python, React and Node.js
+- Worked on the development of a **new internal portal/application** that replaced and **retired the company's legacy system**
+- Took part in integrating the new application with the legacy system through a **Python middleware**, ensuring a seamless transition with zero downtime
+- Contributed to **automating production counting and product verification** with a **Computer Vision (Visual AI)** solution
+- Full stack involvement — from architecture design to delivery — collaborating with the team across TypeScript, Python, React and Node.js
 
 ---
 

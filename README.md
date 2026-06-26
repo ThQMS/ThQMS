@@ -20,9 +20,9 @@
 
 ### 👋 Sobre mim
 
-Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN. Trabalho com desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
+Desenvolvedor Full Stack com **3 anos de experiência profissional** na Jeito Frio Sorvetes, formado em Engenharia de Software pela UNIGRAN. Atuo em times de desenvolvimento de sistemas web escaláveis, arquitetura de software, integração de IA generativa e construção de SaaS multi-tenant.
 
-Trabalho com aplicações que exigem **performance**, **segurança** e **escalabilidade**, atuando com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho SaaS e projetos públicos que demonstram minha capacidade técnica.
+Trabalho em equipe em aplicações que exigem **performance**, **segurança** e **escalabilidade**, com um stack amplo que vai do back-end ao mobile. Atualmente curso uma **Pós-Graduação em Segurança Defensiva – Blue Team Operations**, aprofundando defesa, detecção e resposta a incidentes. A maior parte do meu trabalho está em repositórios privados por questões corporativas, mas tenho SaaS e projetos públicos que demonstram minha capacidade técnica.
 
 ---
 
@@ -30,10 +30,10 @@ Trabalho com aplicações que exigem **performance**, **segurança** e **escalab
 
 **Desenvolvedor Full Stack** — Jeito Frio Sorvetes (3 anos)
 
-- Desenvolvi um **novo portal/aplicativo interno** que substituiu e **aposentou o sistema legado** da empresa
-- Integrei a nova aplicação ao sistema legado por meio de um **middleware em Python**, garantindo a transição sem interrupção das operações
-- **Automatizei a contagem de produção e a conferência de produtos** através de uma solução de **Visão Computacional (Visual IA)** desenvolvida por mim
-- Atuação full stack — do design da arquitetura à entrega — com TypeScript, Python, React e Node.js
+- Atuei no desenvolvimento de um **novo portal/aplicativo interno** que substituiu e **aposentou o sistema legado** da empresa
+- Participei da integração da nova aplicação ao sistema legado por meio de um **middleware em Python**, garantindo a transição sem interrupção das operações
+- Contribuí para a **automação da contagem de produção e da conferência de produtos** com uma solução de **Visão Computacional (Visual IA)**
+- Atuação full stack — do design da arquitetura à entrega — colaborando com o time em TypeScript, Python, React e Node.js
 
 ---
 
