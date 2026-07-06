@@ -192,6 +192,34 @@ A multi-tenant SaaS for full microcredit, lending and factoring management. It c
 
 ---
 
+### 🌐 Client Work
+
+Websites and landing pages delivered for real clients, live in production on their own domain.
+
+<table>
+<tr>
+<td width="100%">
+
+**[AZ Representações — Institutional Landing Page](https://azrepresentacao.com.br)** · **[Code](https://github.com/ThQMS/AZ-Landing-Page)**
+
+Institutional landing page for a high-end furniture representative, with an editorial aesthetic, a room-gallery carousel and refined microinteractions. Live on its own domain, shipped as a static site via GitHub Pages.
+
+**Stack:** React · JavaScript · esbuild · Lenis · GitHub Pages
+
+|                       |                                                        |
+| --------------------- | ------------------------------------------------------ |
+| 🌓 Light/dark theme   | Smooth transitions between modes                       |
+| 🖼️ Room gallery        | Full-screen carousel with crossfade and gesture nav    |
+| ✨ Microinteractions  | Animated aurora background and refined animations      |
+| 📱 Responsive         | Mobile-optimized layout                                |
+| 💬 Direct contact     | WhatsApp and Instagram integration                     |
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🧪 Study & Open-Source Projects
 
 Public projects I build to deepen architecture, performance and best practices — each with a detailed README, architecture diagrams and documented technical decisions.

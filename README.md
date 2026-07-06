@@ -192,6 +192,34 @@ SaaS multi-tenant para gestão completa de microcrédito, empréstimos e factori
 
 ---
 
+### 🌐 Trabalhos para Clientes
+
+Sites e landing pages entregues para clientes reais, em produção com domínio próprio.
+
+<table>
+<tr>
+<td width="100%">
+
+**[AZ Representações — Landing Page Institucional](https://azrepresentacao.com.br)** · **[Código](https://github.com/ThQMS/AZ-Landing-Page)**
+
+Landing page institucional para representante de mobiliário de alto padrão, com estética editorial, galeria de ambientes em carrossel e microinterações refinadas. No ar com domínio próprio, publicada como site estático via GitHub Pages.
+
+**Stack:** React · JavaScript · esbuild · Lenis · GitHub Pages
+
+|                        |                                                          |
+| ---------------------- | -------------------------------------------------------- |
+| 🌓 Tema claro/escuro   | Alternância com transições suaves                        |
+| 🖼️ Galeria de ambientes | Carrossel fullscreen com crossfade e navegação por gesto |
+| ✨ Microinterações     | Fundo aurora animado e animações refinadas               |
+| 📱 Responsivo          | Layout otimizado para mobile                             |
+| 💬 Contato direto      | Integração com WhatsApp e Instagram                      |
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🧪 Projetos de Estudo & Open Source
 
 Projetos públicos que exploro para aprofundar arquitetura, performance e boas práticas — cada um com README detalhado, diagramas de arquitetura e decisões técnicas documentadas.
