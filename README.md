@@ -317,6 +317,12 @@ Assistente local de QA criado para o uso diário de uma analista de QA: transfor
 </td>
 <td width="50%">
 
+**[PO Assistent — Backlog e User Stories com IA](https://github.com/ThQMS/PO-assistent)**
+
+Assistente local para Product Owners: transforma pedidos soltos em backlog bem escrito. 8 modos — user stories, quebra de épico, critérios de aceite, checagem INVEST, perguntas para refinement, priorização WSJF, release notes e status para stakeholders. Streaming em tempo real, chat de refinamento, exportação para Jira e privacidade por arquitetura (servidor local, sem persistência).
+
+**Stack:** React 18 · Node.js · Express · Groq (LLaMA 3.3 70B) · pdf.js · mammoth
+
 </td>
 </tr>
 </table>

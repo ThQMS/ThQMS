@@ -317,6 +317,12 @@ Local QA assistant built for a QA analyst's daily work: turns specifications int
 </td>
 <td width="50%">
 
+**[PO Assistent — AI-Powered Backlog & User Stories](https://github.com/ThQMS/PO-assistent)**
+
+Local assistant for Product Owners: turns loose requests into well-written backlog. 8 modes — user stories, epic breakdown, acceptance criteria, INVEST check, refinement questions, WSJF prioritization, release notes and stakeholder status. Real-time streaming, refinement chat, Jira export and privacy by architecture (local server, no persistence).
+
+**Stack:** React 18 · Node.js · Express · Groq (LLaMA 3.3 70B) · pdf.js · mammoth
+
 </td>
 </tr>
 </table>
