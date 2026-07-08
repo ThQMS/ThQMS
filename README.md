@@ -305,6 +305,20 @@ Dashboard de monitoramento para serviços HTTP e APIs: executa health checks per
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[QA Assistant — Análise de Documentação e Planejamento de Testes com IA](https://github.com/ThQMS/Qa-assistent)**
+
+Assistente local de QA criado para o uso diário de uma analista de QA: transforma especificações em critérios de aceite, cenários de teste, massa de dados, estimativas e priorização por risco. 12 modos de análise com streaming em tempo real, chat de refinamento, exportação para Jira e testes de regressão dos prompts (`npm run eval`).
+
+**Stack:** React 18 · Node.js · Express · Groq (LLaMA 3.3 70B) · pdf.js · mammoth
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
