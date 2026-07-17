@@ -10,6 +10,8 @@
 
 [![Disponível para oportunidades](https://img.shields.io/badge/Dispon%C3%ADvel_para-Oportunidades-38BDAE?style=for-the-badge)](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar_site-E65320?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thqms.github.io/Pagina-Pessoal/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thqueirozsilva@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThQMS)
@@ -370,7 +372,7 @@ Assistente local para Product Owners: transforma pedidos soltos em backlog bem e
 
 Interessado em colaborar, conversar sobre desenvolvimento ou explorar oportunidades? Sinta-se à vontade para me contactar:
 
-📧 [thqueirozsilva@gmail.com](mailto:thqueirozsilva@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249) · 💻 [@ThQMS](https://github.com/ThQMS)
+📧 [thqueirozsilva@gmail.com](mailto:thqueirozsilva@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-henrique-queiroz-muniz-silva-b91311249) · 💻 [@ThQMS](https://github.com/ThQMS) · 🌐 [Portfólio](https://thqms.github.io/Pagina-Pessoal/)
 
 <div align="center">
 <sub>Entre em contato se quiser saber mais sobre minha experiência e projetos.</sub>
